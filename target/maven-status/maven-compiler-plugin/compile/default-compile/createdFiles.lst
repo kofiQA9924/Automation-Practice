@@ -1,0 +1,7 @@
+com\AutomationPractice\Pages\AccountRegistrationPage.class
+com\AutomationPractice\Pages\ShoppingPage.class
+com\AutomationPractice\Utilities\Capture.class
+com\AutomationPractice\Base\BaseClass.class
+com\AutomationPractice\Pages\CheckoutPage.class
+com\AutomationPractice\Utilities\Reporting.class
+com\AutomationPractice\Pages\HomePage.class

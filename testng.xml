@@ -1,0 +1,12 @@
+<suite name="Overall Test">
+    <test name="Automation Practice Test">
+        <classes>
+            <class name="com.AutomationPractice.TestCases.AccountRegistrationPageTest"> </class>
+        </classes>
+
+    </test>
+<Listeners>
+    <Listener name="com.AutomationPractice.Utilities.Reporting"></Listener>
+</Listeners>
+
+</suite>

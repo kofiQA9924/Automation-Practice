@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Overall Test]">
+  <test thread-count="5" verbose="0" name="Automation Practice Test(failed)">
+    <classes>
+      <class name="com.AutomationPractice.TestCases.AccountRegistrationPageTest">
+        <methods>
+          <include name="testRegister"/>
+          <include name="testZipcode"/>
+          <include name="testAlias"/>
+          <include name="testCity"/>
+          <include name="testState"/>
+          <include name="setUpAccount"/>
+          <include name="testFirstname"/>
+          <include name="testAddressfirstname"/>
+          <include name="testCompany"/>
+          <include name="testHomephone"/>
+          <include name="testAddressLine2"/>
+          <include name="testsetTitle"/>
+          <include name="testMobilephone"/>
+          <include name="testAddresslastname"/>
+          <include name="testDoB"/>
+          <include name="testAddinfo"/>
+          <include name="testAddress"/>
+          <include name="testLastname"/>
+          <include name="testaccountMsg"/>
+        </methods>
+      </class> <!-- com.AutomationPractice.TestCases.AccountRegistrationPageTest -->
+    </classes>
+  </test> <!-- Automation Practice Test(failed) -->
+</suite> <!-- Failed suite [Overall Test] -->
